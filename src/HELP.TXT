@@ -1,0 +1,8 @@
+1. Enter TURBO
+2. Click C for Compile
+3. For Work file name, type one of the following
+    a. HELLO_WORLD.PAS
+    b. GUESS.PAS
+
+4. Type R for Run
+5. When finished, click Q to leave
