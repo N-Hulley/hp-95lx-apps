@@ -5,8 +5,9 @@ var
   play_again: char;
 
 begin
+  Randomize;
   repeat
-    secret := 50;
+    secret := Random(1000) + 1;
     guesses := 0;
     
     WriteLn('===================');
